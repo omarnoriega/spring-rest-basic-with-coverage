@@ -1,4 +1,4 @@
-package com.ceiba.springrest.api;
+package com.spring.rest.api;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

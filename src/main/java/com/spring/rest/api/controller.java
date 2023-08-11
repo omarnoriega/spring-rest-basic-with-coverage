@@ -1,5 +1,5 @@
-package com.ceiba.springrest.api;
-import com.ceiba.springrest.servicio.RespuestaServicio;
+package com.spring.rest.api;
+import com.spring.rest.servicio.RespuestaServicio;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

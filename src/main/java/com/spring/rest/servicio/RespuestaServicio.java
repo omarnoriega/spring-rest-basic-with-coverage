@@ -1,4 +1,4 @@
- package com.ceiba.springrest.servicio;
+ package com.spring.rest.servicio;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
